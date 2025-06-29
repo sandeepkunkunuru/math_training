@@ -1,0 +1,4 @@
+add_executable(probability_distributions probability_distributions.cpp)
+add_executable(random_variables random_variables.cpp)
+add_executable(monte_carlo monte_carlo.cpp)
+add_executable(stochastic_processes stochastic_processes.cpp)

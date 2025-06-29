@@ -1,0 +1,4 @@
+add_executable(vector_operations vector_operations.cpp)
+add_executable(matrix_operations matrix_operations.cpp)
+add_executable(linear_transformations linear_transformations.cpp)
+add_executable(eigenvalues eigenvalues.cpp)
