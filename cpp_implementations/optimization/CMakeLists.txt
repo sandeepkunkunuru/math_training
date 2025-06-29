@@ -1,0 +1,5 @@
+add_executable(unconstrained_optimization unconstrained_optimization.cpp)
+add_executable(constrained_optimization constrained_optimization.cpp)
+add_executable(linear_programming linear_programming.cpp)
+add_executable(nonlinear_programming nonlinear_programming.cpp)
+add_executable(metaheuristics metaheuristics.cpp)
