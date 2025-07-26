@@ -1,0 +1,3 @@
+add_executable(constraint_satisfaction constraint_satisfaction.cpp)
+add_executable(propagation_algorithms propagation_algorithms.cpp)
+add_executable(search_strategies search_strategies.cpp)

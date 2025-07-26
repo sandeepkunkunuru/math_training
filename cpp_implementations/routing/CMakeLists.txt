@@ -1,0 +1,3 @@
+add_executable(traveling_salesman traveling_salesman.cpp)
+add_executable(vehicle_routing vehicle_routing.cpp)
+add_executable(shortest_path_routing shortest_path_routing.cpp)

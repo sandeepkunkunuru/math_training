@@ -1,0 +1,3 @@
+add_executable(branch_and_bound branch_and_bound.cpp)
+add_executable(cutting_planes cutting_planes.cpp)
+add_executable(mixed_integer_programming mixed_integer_programming.cpp)

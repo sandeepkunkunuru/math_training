@@ -1,0 +1,3 @@
+add_executable(job_shop_scheduling job_shop_scheduling.cpp)
+add_executable(resource_allocation resource_allocation.cpp)
+add_executable(project_scheduling project_scheduling.cpp)

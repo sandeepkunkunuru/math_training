@@ -1,0 +1,3 @@
+add_executable(simulated_annealing simulated_annealing.cpp)
+add_executable(genetic_algorithm genetic_algorithm.cpp)
+add_executable(tabu_search tabu_search.cpp)
